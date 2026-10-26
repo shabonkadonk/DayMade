@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Preserved root-owned starter files
+.daymade-backup-*
+# Local artifacts
+coverage/
+.next-verify/
+artifacts/
+.env*
+!.env.example
