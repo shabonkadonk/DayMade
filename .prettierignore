@@ -1,0 +1,7 @@
+node_modules
+.next
+.next-verify
+.daymade-backup-*
+package-lock.json
+public
+artifacts
